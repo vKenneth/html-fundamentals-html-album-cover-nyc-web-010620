@@ -44,3 +44,4 @@ RSpec.describe 'HTML Album Cover' do
 
   end
 end
+<h4> </h4>
